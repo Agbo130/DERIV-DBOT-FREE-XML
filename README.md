@@ -1,7 +1,7 @@
-<h1 align="center">🚀 Deriv Free DBots XML Collection 📄</h1>
+<h1 align="center">🚀 Free Deriv DBots XML Collection 📄</h1>
 
 <p align="center">
-Accurated set of XML bots for <a href="https://track.deriv.com/_X4my-_6ZqrApl7dR3lTXiGNd7ZgqdRLk/1/">dbot.deriv.com</a>  optimized for performance, precision, and profit.
+A curated collection of XML bots for <a href="https://track.deriv.com/_X4my-_6ZqrApl7dR3lTXiGNd7ZgqdRLk/1/">dbot.deriv.com</a>  Optimized for performance, accuracy, and profitability.
 </p>
 
 ---
