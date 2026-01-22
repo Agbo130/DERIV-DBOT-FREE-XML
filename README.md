@@ -44,7 +44,7 @@ Interested in premium trading bots or personal 1-on-1 mentorship? Get in touch b
 
 - 📱 WhatsApp: [Chat Now](https://wa.me/2347046226788)  
 - 💬 Telegram: [@FrankFx Bot](https://t.me/unrulytech1)  
-- 📧 Email: derivkingnato@gmail.com  
+- 📧 Email: frankfx22@gmail.com  
 
 ---
 
@@ -104,7 +104,7 @@ If these bots have helped you, consider supporting the project.
 Contact me below for donation details:
 
 - 📱 WhatsApp: [Chat Now](https://wa.me/2347046226788)  
-- 💬 Telegram: [@Deriv_Pro](https://t.me/unrulytech1)  
+- 💬 Telegram: [@Frankfx Bot](https://t.me/unrulytech1)  
 - 📧 Email: franfx22@gmail.com
 
 
