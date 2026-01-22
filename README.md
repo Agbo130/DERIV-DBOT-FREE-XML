@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Deriv Fee DBots XML Collection 📄</h1>
+<h1 align="center">🚀 Deriv Free DBots XML Collection 📄</h1>
 
 <p align="center">
 Accurated set of XML bots for <a href="https://track.deriv.com/_X4my-_6ZqrApl7dR3lTXiGNd7ZgqdRLk/1/">dbot.deriv.com</a>  optimized for performance, precision, and profit.
@@ -6,102 +6,106 @@ Accurated set of XML bots for <a href="https://track.deriv.com/_X4my-_6ZqrApl7dR
 
 ---
 
-## 🔧 What’s Inside
+🔧 What’s Inside
 
-This repo contains a collection of XML-based Deriv bots designed for automated binary options trading. These bots leverage strategies like:
+This repo contains a curated collection of XML-based Deriv bots built for automated binary options trading on Deriv DBot. These bots are powered by proven strategies such as:
 
-- ✅ Tick movement analysis  
-- ✅ Last digit pattern recognition  
-- ✅ Trend indicators  
-- ✅ Visual strategy mapping  
+✅ Tick movement analysis
 
-They’re built for traders who want high win rates with controlled risk. Martingale stages are supported, but use with caution.
+✅ Last digit pattern recognition
 
----
+✅ Trend-based indicators
 
-## 🧠 How to Get Started
+✅ Visual strategy mapping
 
-1. Visit [dbot.deriv.com](https://track.deriv.com/_X4my-_6ZqrApl7dR3lTXiGNd7ZgqdRLk/1/)  
-2. Upload any `.xml` bot file from this repo  
-3. Run the bot  
-4. Monitor performance and adjust as needed  
-5. 💰 Profit (responsibly)
+They are designed for traders aiming for higher win rates with controlled risk.
+Martingale stages are supported and configurable — use with caution.
 
----
 
-![AI-Fintech](https://user-images.githubusercontent.com/57016982/170944162-b0775598-289a-49a3-85c6-2c0af545741c.jpg)
+🧠 How to Get Started
 
-> ⚠️ These bots are intended for experienced traders. Always test on demo accounts first and consult a financial advisor before going live.
+1️⃣ Visit [dbot.deriv.com](https://track.deriv.com/_X4my-_6ZqrApl7dR3lTXiGNd7ZgqdRLk/1/)  
+2️⃣ Log in or create your Deriv account
+3️⃣ Download any .xml bot file from this repository
+4️⃣ Upload the bot into Deriv DBot
+5️⃣ Adjust stake size and risk settings
+6️⃣ Run the bot and monitor performance
 
----
 
-## 💬 My Contacts & Mentorship Inquiries
 
-Want premium bots or 1-on-1 guidance? Reach out:
 
-- 📱 WhatsApp: [Chat Now](https://wa.me/254747204803)  
-- 💬 Telegram: [@Deriv_Pro](https://t.me/Deriv_Pro)  
+
+
+
+
+💬 Contacts & Mentorship Requests
+
+Interested in premium trading bots or personal 1-on-1 mentorship? Get in touch below:
+
+- 📱 WhatsApp: [Chat Now](https://wa.me/2347046226788)  
+- 💬 Telegram: [@FrankFx Bot](https://t.me/unrulytech1)  
 - 📧 Email: derivkingnato@gmail.com  
 
 ---
 
-## 💸 Premium Bot Combo Offer
+💸 Premium Bot Combo Offer
 
-There are over 40+ premium bots and strategies available  plus lifetime access to future releases. Test, compare, and find your perfect fit.
+Get access to 40+ premium trading bots and proven strategies, including lifetime access to all future updates and new releases.
+Test multiple bots, compare performance, and choose the strategy that best fits your trading style.
 
-- Combo deal includes all bots + future updates or buy bots indivi
+✅ Combo package includes all premium bots plus future updates
+
+✅ Flexible options: full combo bundle or individual bot purchase
+
 - Contact me for pricing:
-- 📱 WhatsApp: [Chat Now](https://wa.me/254747204803)  
-- 💬 Telegram: [@Deriv_Pro](https://t.me/Deriv_Pro)  
-- 📧 Email: derivkingnato@gmail.com  
+- 📱 WhatsApp: [Chat Now](https://wa.me/2347046226788)  
+- 💬 Telegram: [@FrankFx Bot](https://t.me/unrulytech1)  
+- 📧 Email: frankfx22@gmail.com  
 
 ---
 
-## 🧠 Pro Tips
+🧠 Pro Trading Tips
 
-- Use stop-loss and proper risk management  
-- Always test bots on demo before going live  
-- Track performance and tweak strategies  
-- Never rely solely on automation — stay informed  
-- Past results ≠ future guarantees
+Apply strict risk management and define loss limits
 
----
+Test every bot on a demo account before live trading
 
-## 💎 Join the Inner Circle
+Monitor results closely and optimize settings regularly
 
-Step into a private trading community built for precision, profit, and elite strategy sharing.
+Automation is a tool — stay informed and involved
 
-**𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌:** [https://t.me/Deriv Pro_Bots](https://t.me/Deriv_Pro_Bots)  
-**𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏:** [https://chat.whatsapp.com/Fgh6GRJbmWV3MdCnnsFr38](https://chat.whatsapp.com/Fgh6GRJbmWV3MdCnnsFr38)
+Past performance does not guarantee future results
 
-> Access premium bots, live strategy drops, and mentorship from top-tier traders.  
-> This isn’t just a group, it’s your edge.
+💎 Join the Inner Circle
 
----
-## 🤝 Contribute
+Become part of an exclusive trading community focused on precision execution, smart risk control, and advanced strategy sharing.
+**𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌:** [https://t.me/FrankFx Bot](https://t.me/unrulytech1)  
+**𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏:** [Chat Now](https://wa.me/2347046226788)
 
-We welcome all contributions:
+🤝 Contribute
 
-- Submit issues or feature requests  
-- Share strategies or improvements  
-- Help others in the community  
-- Submit pull requests
+We welcome all forms of contribution:
 
----
+Report issues or request new features
 
-## 📜 License
+Share your strategies or improvements
 
-This project is licensed under the MIT License.
+Help others in the community
 
----
+Submit pull requests
 
-## 🙌 Support the Project
+📜 License
 
-If you’ve benefited from these bots, consider supporting by donating, contact me below for donation details:
+This project is released under the MIT License.
 
-- 📱 WhatsApp: [Chat Now](https://wa.me/254747204803)  
-- 💬 Telegram: [@Deriv_Pro](https://t.me/Deriv_Pro)  
-- 📧 Email: derivkingnato@gmail.com
+🙌 Support the Project
+
+If these bots have helped you, consider supporting the project.
+Contact me below for donation details:
+
+- 📱 WhatsApp: [Chat Now](https://wa.me/2347046226788)  
+- 💬 Telegram: [@Deriv_Pro](https://t.me/unrulytech1)  
+- 📧 Email: franfx22@gmail.com
 
 
 
