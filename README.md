@@ -1,7 +1,7 @@
-<h1 align="center">🚀 Deriv Bots XML Collection 📄</h1>
+<h1 align="center">🚀 Deriv Fee DBots XML Collection 📄</h1>
 
 <p align="center">
-Accurated set of XML bots for <a href="https://dbot.deriv.com">dbot.deriv.com</a>  optimized for performance, precision, and profit.
+Accurated set of XML bots for <a href="https://track.deriv.com/_X4my-_6ZqrApl7dR3lTXiGNd7ZgqdRLk/1/">dbot.deriv.com</a>  optimized for performance, precision, and profit.
 </p>
 
 ---
@@ -21,7 +21,7 @@ They’re built for traders who want high win rates with controlled risk. Martin
 
 ## 🧠 How to Get Started
 
-1. Visit [dbot.deriv.com](https://dbot.deriv.com)  
+1. Visit [dbot.deriv.com](https://track.deriv.com/_X4my-_6ZqrApl7dR3lTXiGNd7ZgqdRLk/1/)  
 2. Upload any `.xml` bot file from this repo  
 3. Run the bot  
 4. Monitor performance and adjust as needed  
